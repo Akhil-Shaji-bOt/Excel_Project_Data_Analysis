@@ -4,9 +4,11 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+This Salary Dashboard is a project I completed while following Luke Barousse's Excel course. I built the dashboard alongside the lessons, applying each concept step by step to gain hands-on experience with Excel for data analysis and visualization.
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The dashboard analyzes salary data for various data-related job roles, allowing users to explore salary trends based on job title, location, and key skills. Throughout this project, I used Excel features such as Power Query, Pivot Tables, Pivot Charts, Slicers, and interactive dashboard elements to transform raw data into meaningful insights.
+
+This project helped strengthen my practical Excel skills and provided valuable experience in building professional, interactive dashboards from real-world datasets.
 
 ### Dashboard File
 My final dashboard is in [Salary Dashboard_project1.xlsx](Salary%20Dashboard_project1.xlsx).
@@ -21,7 +23,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. It was provided as part of Luke Barousse's Excel course, where it is used to teach data analysis and dashboard creation in Excel. The dataset includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -110,4 +112,4 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard as part of Luke Barousse's Excel course to analyze salary trends across various data-related job roles. Using the dataset provided in the course, the dashboard enables users to explore how factors such as job title, location, and employment type influence salaries. This project demonstrates my ability to clean, analyze, and visualize data using Excel while building an interactive dashboard that supports data-driven career insights.
